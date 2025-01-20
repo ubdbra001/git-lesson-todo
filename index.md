@@ -1,5 +1,8 @@
 # Welcome to my website
 
+> [!NOTE]
+> Have a nice image before you look at your todo list
+
 ![](sunset.jpeg)
 
 
@@ -7,5 +10,4 @@
 
 - Get some milk
 - Pick up Toddler
-- Buy train tickets
 - Put bike in for repair
